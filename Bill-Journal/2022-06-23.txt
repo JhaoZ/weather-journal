@@ -1,3 +1,0 @@
-Location: shanghai Temperature: 96°F Time: 星期四 17:02 Sky: 以晴为主 Other:
-.
-weather is bad
