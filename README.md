@@ -24,8 +24,14 @@ To run the program you will need to enter the weather-journal directory and run 
 There are four options available.
 
 View Weather:
+
 ![image](https://user-images.githubusercontent.com/33736335/175544400-2555187b-b7c9-4fb7-aadd-b6eeba98674a.png)
-The program will ask you for a city name, and then you can input it (Shanghai is shown here as an example).
+
+The program will ask you for a city name, and then you can input it (Shanghai is shown here as an example). It will output the temperature, time, sky, and other detuals.
+
+Write:
+
+
 
 
 Made originally for UIUC SOSP 2022
