@@ -19,7 +19,13 @@ textwrap
 
 To run the program you will need to enter the weather-journal directory and run ```python3 main.py```. This journal is best experiences in Ubuntu command line.
 
+### How it works
 
+There are four options available.
+
+View Weather:
+![image](https://user-images.githubusercontent.com/33736335/175544400-2555187b-b7c9-4fb7-aadd-b6eeba98674a.png)
+The program will ask you for a city name, and then you can input it (Shanghai is shown here as an example).
 
 
 Made originally for UIUC SOSP 2022
