@@ -48,6 +48,9 @@ Read Entries:
 
 You can also view entries by date by clicking on view entries and the date of entry you want to retrieve.
 
+Delete your notebook:
+
+Use ```python3 main.py -d``` or ```python3 main.py --delete``` to delete your notebook. ```python3 main.py -h``` or ```python3 main.py --help``` can be used to find this command as well.
 
 Any questions or bugs?
 
